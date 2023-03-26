@@ -50,4 +50,3 @@ export default Pad;
 //   }
   
 //   export default Pad ; 
-Footer
